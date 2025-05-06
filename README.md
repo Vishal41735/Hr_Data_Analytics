@@ -14,9 +14,7 @@ The dashboard focuses on:
 
 ## 🔗 Dashboard Access
 
-👉 [Click here to view the Power BI Dashboard]([https://app.powerbi.com/view?r=your-dashboard-link](https://app.powerbi.com/groups/me/reports/0dd6ef9b-f0a1-4f23-9086-0df0ea14bde6/e2eaf1c0e0e74a1227e3?experience=power-bi ))
+👉 [Click here to view the Power BI Dashboard](https://app.powerbi.com/groups/me/reports/0dd6ef9b-f0a1-4f23-9086-0df0ea14bde6/e2eaf1c0e0e74a1227e3?experience=power-bi)
 
-> *(Make sure your Power BI dashboard is published to web and replace the link above)*
-
-## 📁 Repository Structure
+ 
 
